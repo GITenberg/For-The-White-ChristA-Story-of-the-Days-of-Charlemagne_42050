@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1956
     wikipedia: http://en.wikipedia.org/wiki/Robert_Ames_Bennet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42050#For-The-White-ChristA-Story-of-the-Days-of-Charlemagne
 gutenberg_issued: '2013-02-08'
 gutenberg_type: Text
 identifiers:
