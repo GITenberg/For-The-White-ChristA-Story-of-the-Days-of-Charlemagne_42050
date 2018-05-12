@@ -1,0 +1,41 @@
+_repo: For-The-White-ChristA-Story-of-the-Days-of-Charlemagne_42050
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Kinney, Troy
+    alias: Kinneys, The
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '25249'
+    url: http://www.gutenberg.org/2009/agents/25249
+  - agent_name: Kinney, Margaret West
+    birthdate: 1872
+    gutenberg_agent_id: '25250'
+    url: http://www.gutenberg.org/2009/agents/25250
+covers:
+- cover_type: archival
+  image_path: 42050-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Bennet, Robert Ames
+    birthdate: 1870
+    deathdate: 1954
+    gutenberg_agent_id: '1956'
+    url: http://www.gutenberg.org/2009/agents/1956
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Ames_Bennet
+description: ''
+gutenberg_issued: '2013-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42050'
+  lccn: 05009656
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Charlemagne, Emperor, 742-814 -- Fiction'
+- !lcsh 'Emperors -- Fiction'
+title: 'For the White Christ: A Story of the Days of Charlemagne'
+url: http://www.gutenberg.org/ebooks/42050
